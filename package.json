@@ -1,0 +1,11 @@
+{
+  "name": "shapdesk",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.4.1",
+    "bulma-admin-bar": "^1.0.0",
+    "bulmaswatch": "^0.4.1",
+    "compass-mixins": "^0.12.10"
+  }
+}
